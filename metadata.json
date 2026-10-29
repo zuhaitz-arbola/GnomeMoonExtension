@@ -1,0 +1,16 @@
+{
+    "uuid": "gnomemoonextension@aiurri.xyz",
+    "name": "Gnome Moon Extension",
+    "description": "Real-time calculation and representation of the lunar phase and associated astronomical data",
+    "shell-version": [
+        "46",
+        "47",
+        "48",
+        "49",
+        "50"
+    ],
+    "version": 1,
+    "settings-schema": "org.gnome.shell.extensions.gnomemoonextension",
+    "gettext-domain": "gnomemoonextension",
+    "url": "https://github.com/zuhaitz-arbola/GnomeMoonExtension"
+}
